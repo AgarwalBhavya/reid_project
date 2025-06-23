@@ -1,0 +1,7 @@
+Python
+PyTorch
+Ultralytics #(for YOLO)
+OpenCV
+Torchvision
+SciPy
+tqdm
